@@ -19,7 +19,7 @@ while (loop < 10):
     print ("Where the weather is always",adjective,".")
     print ()
     print ("You may think that is this the",noun3,",")
-    print ("Well it is.")
+    print ("Well it is. worthy of things to be done.")
     print ("------------------------------------------")
 // Loop back to "loop = 1"
     loop = loop + 1
